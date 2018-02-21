@@ -2,4 +2,4 @@
 
 ## Bio
 
-Hi, I'm french.
+Hi, I'm french, and I like cheese.
